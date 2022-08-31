@@ -1,5 +1,5 @@
 //=============『 Utama 』================== //
-global.owner = ['6288270863279'] 
+global.owner = ['6285795551088'] 
 global.mods = [] 
 global.prems = [] 
 
@@ -14,7 +14,7 @@ global.gopay = '088270863279'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Reghy Botz'
-global.gc = 'https://chat.whatsapp.com/EmCBNEjwdOcHzRlGCXKoxK'
+global.gc = 'https://chat.whatsapp.com/JCrOpzcgqQI41LvzMMWfcr'
 global.web = 'https://nekopoi.care' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
